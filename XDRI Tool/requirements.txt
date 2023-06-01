@@ -1,0 +1,5 @@
+psutil==5.7.3
+scapy==2.4.4
+dnspython==1.16.0
+colorama==0.4.4
+requests==2.25.0
